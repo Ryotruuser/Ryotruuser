@@ -7,10 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotruuser&theme=chartreuse-dark&layout=compact&langs_count=7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryotruuser&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"> </a>
 </div>
-<h3 align="center">Destaques</h3>
-
-   ⠀⠀⠀⠀⠀⠀⠀⠀![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryotruuser&theme=midnight-purple&repo=AnimeFlix)
-    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryotruuser&theme=midnight-purple&repo=SuperTrunfo)
 
   
 <div align="center"> 
