@@ -1,10 +1,11 @@
 
+
 <h1 align="center">  Olá me chamo Renan Ramos </h1>
 <h3 align="center">Técnico em manutenção e suporte | Análise e desenvolvimento de sistemas | Desenvolvedor web</h3>
 
 <div align="center">
   <a href="https://github.com/Ryotruuser">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotruuser&theme=chartreuse-dark&layout=compact&langs_count=7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotruuser&theme=chartreuse-dark&layout=compact&langs_count=6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryotruuser&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"> </a>
 </div>
 
