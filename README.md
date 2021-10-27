@@ -8,7 +8,7 @@ Nas florestas da noite.
 Que mão que olho imortal
 se atreveu a plasmar tua terrível simetria?"</i></p>
 
-<h3 align="center">Técnico em manutenção e suporte | Análise e desenvolvimento de sistemas | Desenvolvedor web</h3>
+<h3 align="center">Técnico em manutenção e suporte | Análise e desenvolvimento de sistemas | Programador web</h3>
 
 <div align="center">
   <a href="https://github.com/Ryotruuser">
