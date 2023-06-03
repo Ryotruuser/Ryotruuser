@@ -2,12 +2,6 @@
 
 <h1 align="center">Olá, bem vindo, eu me chamo Renan e este e meu perfil.</h1>
 
-<p align="center" style="font-size: apparentlyThisDontWorkHere;"><i>"
-Tigre, tigre que flamejas
-Nas florestas da noite.
-Que mão que olho imortal
-se atreveu a plasmar tua terrível simetria?"</i></p>
-
 <h3 align="center">Técnico em manutenção e suporte</h3>
 
 <div align="center">
