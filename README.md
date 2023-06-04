@@ -1,24 +1,51 @@
-# 💫 About Me:
-Hi i'm Renan Ramos a software engineering student.
 
+<h1 align="left">Hi, I'm Renan Ramos</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryotruuser/) 
+<h3 align="left">Tech Student at Unijorge</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ryotruuser&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ryotruuser&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryotruuser&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/renan-ramos-1a5b221b9/" target="_blank">
+    <img 
+         height="30px" 
+         width="100px" 
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         target="_blank">
+  </a> 
+  ‎‎‎
+  <a href = "mailto:riionansr@gmail.com" target="_blank">
+    <img 
+         height="30px"
+         width="100px" 
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         target="_blank">
+  </a>
+  
+  <h3>Skills</h3>
+    <img 
+         height="30px"
+         width="80px" 
+         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+         target="_blank">
+  <img 
+         height="30px"
+         width="80px" 
+         src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+         target="_blank"> 
+  <img 
+         height="30px"
+         width="80px" 
+         src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
+         target="_blank">  
+  <img 
+         height="30px"
+         width="80px" 
+         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+         target="_blank">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryotruuser&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ryotruuser&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ryotruuser&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
