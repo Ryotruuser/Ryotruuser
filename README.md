@@ -3,9 +3,9 @@
 
 
 <h1 align="left"><img 
-    height="100px" 
-    width="100px"  
-    src="https://media1.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e47t83toi7jsyvpshqq38i01b5chcka91ou2239mgw7&ep=v1_stickers_search&rid=200.webp&ct=s"> Hi, I'm Renan Ramos</h1>
+    height="50px" 
+    width="50px"  
+src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234"> Hi, I'm Renan Ramos</h1>
 
 
 
