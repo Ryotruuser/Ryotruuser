@@ -49,11 +49,6 @@ src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca378
          width="80px" 
          src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
          target="_blank">
-
-  
-  
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
