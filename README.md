@@ -20,6 +20,7 @@
 
 <h3>Estudando atualmente: </h3>
 <div align="left">
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=106&color=currentColor" height="40" alt="node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
