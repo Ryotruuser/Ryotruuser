@@ -23,13 +23,13 @@
 
 ### 📚 Estudando atualmente:
 <div align="left">
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=106&color=currentColor" height="40" alt="node logo"  />
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" height="40" alt="react logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" height="40" alt="ts logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" height="40" alt="n8n logo"  />
 </div>
