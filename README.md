@@ -1,23 +1,23 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/ec51df67-953f-47a9-9380-2033bdb47808" alt="Banner Renan Ramos" width="100%" />
 </p>
 
-<h1 align="center">
+<h1 align="left">
   <img height="40" src="https://media.tenor.com/-7SFzBp_rycAAAAi/fat-cat.gif" />
   Olá! Eu sou o Renan Ramos.
 </h1>
 
-<p align="center">
+<p align="left">
   <strong>Desenvolvedor Front-end | React.js | TypeScript</strong>
 </p>
 
-<p align="center">
+<p align="left">
   Atualmente focado em criar aplicações web escaláveis e com foco em UX/UI. 
   <br>
   Transitando de uma carreira sólida em Suporte/Infraestrutura para o Desenvolvimento de Software.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ryotruuser" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
@@ -31,9 +31,9 @@
 
 <br>
 
-<h3 align="center">🚀 Stack Tecnológica</h3>
+<h3 align="left">🚀 Stack Tecnológica</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,9 +55,9 @@
 
 <br>
 
-<h3 align="center">🏆 Projetos em Destaque</h3>
+<h3 align="left">🏆 Projetos em Destaque</h3>
 
-<div align="center">
+<div align="left">
   
 | 📱 **Multitask App** | 🤖 **Hermes AI** |
 |:---:|:---:|
