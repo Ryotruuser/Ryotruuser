@@ -1,6 +1,8 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/ec51df67-953f-47a9-9380-2033bdb47808" alt="Banner Renan Ramos" width="100%" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/24c06c04-fd5f-471e-86af-bf11c1b7d032" />
 </p>
+
+<br>
 
 <h1 align="left">
   <img height="40" src="https://media.tenor.com/-7SFzBp_rycAAAAi/fat-cat.gif" />
