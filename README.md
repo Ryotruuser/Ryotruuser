@@ -1,9 +1,3 @@
-<p align="left">
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/24c06c04-fd5f-471e-86af-bf11c1b7d032" />
-</p>
-
-<br>
-
 <h1 align="left">
   <img height="40" src="https://media.tenor.com/-7SFzBp_rycAAAAi/fat-cat.gif" />
   Olá! Eu sou o Renan Ramos.
